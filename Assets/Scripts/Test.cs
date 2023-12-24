@@ -6,7 +6,7 @@ public class Test : MonoBehaviour
 {
     //プルリクエストテストするぞーー
 
-    // Start is called before the first frame update
+    // Start is called before first frame
     void Start()
     {
         
